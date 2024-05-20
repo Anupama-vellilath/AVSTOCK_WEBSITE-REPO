@@ -312,7 +312,10 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
   color: #005de0;
   letter-spacing: 1px;
   text-transform: uppercase;
-  margin-bottom: 12px;
+  margin-bottom: 20px;
+}
+.titleNew {
+  margin-top: 10px;
 }
 
 /*--Section Title Two--*/
@@ -2290,7 +2293,7 @@ select {
 }
 
 .tech-hero-section .hero-content .hero-btn {
-  margin-top: 40px;
+  margin-top: 10px;
 }
 
 @media only screen and (max-width: 1399px) {
@@ -14015,7 +14018,10 @@ select {
 
 .copyright-text {
   margin-top: 15px;
+ 
 }
+
+
 
 @media only screen and (max-width: 767px) {
   .copyright-text {
