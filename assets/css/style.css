@@ -75,7 +75,7 @@ body[dir="rtl"] {
   text-align: right;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h3, h4, h5, h6 {
   font-family: "Manrope", sans-serif;
   color: #090d2f;
   font-weight: 700;
@@ -95,7 +95,13 @@ h1 {
 }
 
 h2 {
+  font-family: "Manrope", sans-serif;
   font-size: 30px;
+  color: #f7f7fc;
+  font-weight: 700;
+  margin-top: 0;
+  line-height: 1.5;
+  margin-bottom: 0;
 }
 
 @media only screen and (max-width: 767px) {
