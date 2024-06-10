@@ -983,7 +983,13 @@ select {
   font-family: "Manrope", sans-serif;
   color: #ababab;
 }
-
+.info-text-address span{
+  font-size: 14px;
+  font-family: manrope, sans-serif;
+  font-weight: 400;
+  color: #c4c5c7;
+  transition: all .3s linear;
+}
 .header-info .info-text .number {
   display: block;
   font-size: 14px;
