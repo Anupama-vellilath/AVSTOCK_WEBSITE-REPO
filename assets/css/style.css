@@ -6793,6 +6793,10 @@ select {
     font-size: 17px;
   }
 }
+.active {
+  color: #000; /* Example: change text color */
+  font-weight: bold;
+}
 
 @media only screen and (max-width: 1199px) {
   .features-section-7 {
